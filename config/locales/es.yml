@@ -1,0 +1,8 @@
+es:
+layouts:
+	application:
+		title:		"Tienda"
+		home:		"Inicio"
+		questions:	"Preguntas"
+		news:		"Noticias"
+		contact: 	"Contacto"
