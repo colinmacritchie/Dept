@@ -7,22 +7,13 @@ Things you may want to cover:
 
 * Ruby version
 
+- 2.21
+
 * System dependencies
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+- none, clone repo, run "rails s" to start server.
 
 
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+* Note
+
+- This code is still under development, parts of this may not work currently, rails s currently will not work. Will be resolved in the coming days.
